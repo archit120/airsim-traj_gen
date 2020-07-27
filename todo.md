@@ -1,0 +1,7 @@
+ - solve
+ - eval
+ - scaleMat
+ - scaleMatBig
+ - scaleMatBigInv
+ - coeff2endDerivatives
+ - mapQP
